@@ -1,1 +1,0 @@
-# zabbix-server-debian-ubuntu
